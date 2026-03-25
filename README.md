@@ -1,5 +1,7 @@
 # Demo-repository
-hello i am Prathmesh Bagbande 
+Hello My self Prathmesh Bagbande !!!
+I am pursuing my degree from Btech Aissms ioit !!1
+
 
 
 
